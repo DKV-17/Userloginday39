@@ -1,4 +1,4 @@
-import { UserContext } from "./UserContextTemp";
+import { UserContext } from "./UserContext";
 import Profile from "./Profile";
 import Dashboard from "./dashboard";
 import "./App.css";

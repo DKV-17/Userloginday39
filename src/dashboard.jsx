@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { UserContext } from "./UserContextTemp";
+import { UserContext } from "./UserContext";
 
 function Dashboard() {
   const user = useContext(UserContext);
